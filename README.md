@@ -15,16 +15,16 @@ estadistica-aplicada-ejemplos-python/
 │   ├── data_cap3.csv
 │   └── datos_regresion.xlsx
 │
-└── ejercicios/              # Carpeta principal con tus soluciones
-    ├── cap01_estimacion/    # Organizado por capítulos o temas
+└── ejercicios/              # Carpeta principal de soluciones
+    ├── cap01_grupos independientes/  
     │   ├── ejercicios_cap1.ipynb
     │   └── scripts_auxiliares.py
     │
-    ├── cap02_pruebas_hipotesis/
+    ├── cap02_grupos pareados/
     │   ├── prueba_t_y_anova.ipynb
     │   └── prueba_chi_cuadrado.ipynb
     │
-    └── cap03_regresion/
+    └── cap03_relaciones entre variables/
         └── regresion_lineal.ipynb
 ```
 
