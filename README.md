@@ -1,6 +1,9 @@
 # estadistica-aplicada-ejemplos-python
 Este repositorio contiene algunos ejemplos de código para análisis estadísticos mediante las librerias más habituales de Python.
 
+> ⚠️ **Aviso:** 
+> Este proyecto fue desarrollado con fines educativos y de aprendizaje y se encuentra actualmente en fase de revisión y optimización. Tenga en cuenta que el código de Python contienen oportunidades de mejora.
+
 ```
 estadistica-aplicada-ejemplos-python/
 │
