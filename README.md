@@ -11,21 +11,32 @@ estadistica-aplicada-ejemplos-python/
 ├── README.md                
 ├── requirements.txt         # Lista de librerías para instalar
 │
-├── datos/                   # Carpeta con los archivos de datos (CSV, Excel, etc.)
-│   ├── data_cap3.csv
-│   └── datos_regresion.xlsx
+├── datos/                   # Carpeta con los archivos de datos (Excel)
+│   └── datos_analisis_estadistico.xlsx
 │
 └── ejercicios/              # Carpeta principal de soluciones
-    ├── cap01_grupos independientes/  
-    │   ├── ejercicios_cap1.ipynb
+    ├── grupos_independientes/  
+    │   ├── prueba_t_indep.ipynb
+    │   ├── anova_1_factor.ipynb
+    │   ├── anova_2_factores.ipynb
     │   └── scripts_auxiliares.py
     │
-    ├── cap02_grupos pareados/
-    │   ├── prueba_t_y_anova.ipynb
-    │   └── prueba_chi_cuadrado.ipynb
+    ├── grupos_pareados/
+    │   ├── prueba_t_par.ipynb
+    │   ├── anova_1_med_rep.ipynb
+    │   ├── anova_2_med_rep.ipynb
+    │   ├── anova_mixta.ipynb
+    │   └── scripts_auxiliares.py
     │
-    └── cap03_relaciones entre variables/
-        └── regresion_lineal.ipynb
+    └── relaciones_variables/
+        ├── correlacion.ipynb
+        ├── reg_lineal_sim.ipynb
+        ├── reg_lineal_mul.ipynb
+        ├── reg_log_bin_sim.ipynb
+        ├── reg_log_bin_mul.ipynb
+        ├── xi_cuadrada_2x2.ipynb
+        ├── xi_cuadrada_2x5.ipynb
+        └── scripts_auxiliares.py
 ```
 
 ```
