@@ -32,10 +32,8 @@ estadistica-aplicada-ejemplos-python/
         ├── correlacion.ipynb
         ├── reg_lineal_sim.ipynb
         ├── reg_lineal_mul.ipynb
-        ├── reg_log_bin_sim.ipynb
-        ├── reg_log_bin_mul.ipynb
-        ├── xi_cuadrada_2x2.ipynb
-        ├── xi_cuadrada_2x5.ipynb
+        ├── reg_logb_sim.ipynb
+        ├── reg_logb_mul.ipynb
         └── scripts_auxiliares.py
 ```
 
